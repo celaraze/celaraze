@@ -1,16 +1,23 @@
-### Hi there 👋
+我是一名主要以 Web 应用程序开发为主的全栈工程师和架构师。
 
-<!--
-**celaraze/celaraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![VUE](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![VUE](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
+
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+![Celaraze GitHub stats](https://github-readme-stats.vercel.app/api?username=celaraze&show_icons=true)
