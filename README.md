@@ -1,23 +1,35 @@
-我是一名主要以 Web 应用程序开发为主的全栈工程师和架构师。
+我是一名全栈工程师和架构师，熟悉各类软件开发语言和框架，以及信息安全相关技术栈，喜爱 CTF。
 
-### Languages
+
+#### 程序开发
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Frameworks
-
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![VUE](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-![VUE](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-000?&logo=MicrosoftSQLServer)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer)
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
 
-### Technologies
+#### 云原生
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AlibabaCloud](https://img.shields.io/badge/-AlibabaCloud-000?&logo=AlibabaCloud)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=MicrosoftAzure)
+
+#### 运维
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![KaliLinux](https://img.shields.io/badge/-KaliLinux-000?&logo=KaliLinux)
+![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
+![macOS](https://img.shields.io/badge/-macOS-000?&logo=macOS)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNUBash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
+![Homebrew](https://img.shields.io/badge/-Homebrew-000?&logo=Homebrew)
 
-![Celaraze GitHub stats](https://github-readme-stats.vercel.app/api?username=celaraze&show_icons=true)
