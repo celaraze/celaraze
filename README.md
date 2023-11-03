@@ -1,7 +1,7 @@
 我是一名全栈工程师和架构师，熟悉各类软件开发语言和框架，以及信息安全相关技术栈，喜爱 CTF。
+I'm a full-stack developer and architecture who is familiar with various software development languages and frameworks, as well as information security-related technology stacks, and I love CTF.
 
-
-#### 程序开发
+####  Dev
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -16,14 +16,11 @@
 ![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
 
-#### 云原生
+#### Ops 
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AlibabaCloud](https://img.shields.io/badge/-AlibabaCloud-000?&logo=AlibabaCloud)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=MicrosoftAzure)
-
-#### 运维
-
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![KaliLinux](https://img.shields.io/badge/-KaliLinux-000?&logo=KaliLinux)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
@@ -32,4 +29,6 @@
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNUBash)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
 ![Homebrew](https://img.shields.io/badge/-Homebrew-000?&logo=Homebrew)
+
+
 
